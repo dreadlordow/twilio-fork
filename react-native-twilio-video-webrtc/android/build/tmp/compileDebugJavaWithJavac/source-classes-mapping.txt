@@ -1,0 +1,32 @@
+com/twiliorn/library/PatchedVideoView.java
+ com.twiliorn.library.PatchedVideoView
+ com.twiliorn.library.PatchedVideoView$1
+ com.twiliorn.library.PatchedVideoView$Listener
+com/twiliorn/library/TwilioRemotePreview.java
+ com.twiliorn.library.TwilioRemotePreview
+com/twiliorn/library/CustomTwilioVideoView.java
+ com.twiliorn.library.CustomTwilioVideoView
+ com.twiliorn.library.CustomTwilioVideoView$1
+ com.twiliorn.library.CustomTwilioVideoView$2
+ com.twiliorn.library.CustomTwilioVideoView$3
+ com.twiliorn.library.CustomTwilioVideoView$4
+ com.twiliorn.library.CustomTwilioVideoView$5
+ com.twiliorn.library.CustomTwilioVideoView$6
+ com.twiliorn.library.CustomTwilioVideoView$BecomingNoisyReceiver
+ com.twiliorn.library.CustomTwilioVideoView$Events
+com/twiliorn/library/BuildConfig.java
+ com.twiliorn.library.BuildConfig
+com/twiliorn/library/TwilioPackage.java
+ com.twiliorn.library.TwilioPackage
+com/twiliorn/library/TwilioRemotePreviewManager.java
+ com.twiliorn.library.TwilioRemotePreviewManager
+com/twiliorn/library/TwilioVideoPreviewManager.java
+ com.twiliorn.library.TwilioVideoPreviewManager
+com/twiliorn/library/RNVideoViewGroup.java
+ com.twiliorn.library.RNVideoViewGroup
+ com.twiliorn.library.RNVideoViewGroup$1
+ com.twiliorn.library.RNVideoViewGroup$Events
+com/twiliorn/library/CustomTwilioVideoViewManager.java
+ com.twiliorn.library.CustomTwilioVideoViewManager
+com/twiliorn/library/TwilioVideoPreview.java
+ com.twiliorn.library.TwilioVideoPreview

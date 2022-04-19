@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.twiliorn.library"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.camera" />
+11-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:5:5-59
+11-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:5:19-57
+12    <uses-feature android:name="android.hardware.camera.autofocus" />
+12-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:6:5-69
+12-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:6:19-67
+13    <uses-feature
+13-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:7:5-9:34
+14        android:glEsVersion="0x00020000"
+14-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:8:9-41
+15        android:required="true" />
+15-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:9:9-32
+16
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:11:5-64
+17-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:11:22-62
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:12:5-66
+18-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:13:5-70
+19-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:13:22-68
+20    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+20-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:14:5-79
+20-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:14:22-77
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:15:5-78
+21-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:15:22-76
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:16:5-75
+22-->C:\Users\Georgi\Desktop\razkazhimimobile\node_modules\react-native-twilio-video-webrtc\android\src\main\AndroidManifest.xml:16:22-73
+23
+24</manifest>
